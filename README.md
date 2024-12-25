@@ -1,9 +1,15 @@
 ## Hi there 👋 
-I'm Abdelrahman Hesham!
-🌟 Master's Student in Computational Social Systems at Universität Graz.
-💻 Experienced in Python, Java, Docker, Data Science, and Machine Learning.
-🎯 Passionate about developing software solutions and teaching programming concepts.
-📍 Currently based in Graz, Austria, and open to relocation.
+
+### I'm Abdelrahman Hesham!  
+
+🎓 **Master's Student** in *Computational Social Systems* at Universität Graz, specializing in **Business Analytics**.  
+📄 Currently working on my master's thesis: *"Human-AI Voice Interaction"*—exploring innovative ways to bridge communication between humans and AI.  
+
+💻 Passionate about developing cutting-edge software solutions, analyzing complex datasets, and sharing knowledge through teaching programming concepts.  
+🌍 Based in Graz, Austria, with a readiness to relocate for exciting opportunities.  
+
+🚀 Let’s connect and build something incredible together!
+
 
 ### Languages & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

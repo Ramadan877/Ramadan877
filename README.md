@@ -6,7 +6,7 @@
 📄 Currently working on my master's thesis: *"Human-AI Voice Interaction"*—exploring innovative ways to bridge communication between humans and AI.  
 
 💻 Passionate about developing cutting-edge software solutions, analyzing complex datasets, and sharing knowledge through teaching programming concepts.  
-🌍 Based in Graz, Austria, with a readiness to relocate for exciting opportunities.  
+🌍 Based in Vienna, Austria, with a readiness to relocate for exciting opportunities.  
 
 🚀 Let’s connect and build something incredible together!
 

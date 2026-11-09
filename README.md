@@ -10,7 +10,7 @@ Based in Vienna 🇦🇹, building at the intersection of **AI, software enginee
 - Building with Python, Java, FastAPI, and Docker  
 - Curious about everything that makes machines a little smarter
 
-**Tell me no one could solve it, and it's solved ! **
+** Tell me no one could solve it, and it's solved ! **
 
 ### Languages & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

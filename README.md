@@ -2,7 +2,7 @@
 
 ### Short intro:
 
-**AI Enthusiast | Backend Engineer | Turning coffee into code ☕**
+**AI Enthusiast | Backend Engineer | Turning coffee into code**
 
 Based in Vienna 🇦🇹, building at the intersection of **AI, software engineering, and real-world problem-solving**.
 

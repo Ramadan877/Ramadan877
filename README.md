@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-### Shortly intro:
+### Short intro:
 
 **AI Enthusiast | Backend Engineer | Turning coffee into code ☕**
 

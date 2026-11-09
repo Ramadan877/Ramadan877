@@ -1,15 +1,16 @@
 ## Hi there 👋 
 
-### I'm Abdelrahman Hesham!  
+### Shortly intro:
 
-🎓 **Master's Student** in *Computational Social Systems* at Universität Graz, specializing in **Business Analytics**.  
-📄 Currently working on my master's thesis: *"Human-AI Voice Interaction"*—exploring innovative ways to bridge communication between humans and AI.  
+**AI Enthusiast | Backend Engineer | Turning coffee into code ☕**
 
-💻 Passionate about developing cutting-edge software solutions, analyzing complex datasets, and sharing knowledge through teaching programming concepts.  
-🌍 Based in Vienna, Austria, with a readiness to relocate for exciting opportunities.  
+Based in Vienna 🇦🇹, building at the intersection of **AI, software engineering, and real-world problem-solving**.
 
-🚀 Let’s connect and build something incredible together!
+- Exploring LLMs, RAG, and Voice AI  
+- Building with Python, Java, FastAPI, and Docker  
+- Curious about everything that makes machines a little smarter
 
+**Tell me no one could solve it, and it's solved ! **
 
 ### Languages & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
